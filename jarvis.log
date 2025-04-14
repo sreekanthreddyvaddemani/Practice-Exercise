@@ -1,0 +1,85 @@
+2025-04-14 12:25:09,726 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2025-04-14 12:25:09,726 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:25:09,726 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Python313\Lib\site-packages\comtypes\gen\__init__.py'
+2025-04-14 12:25:09,745 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:25:09,767 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-04-14 12:25:09,770 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-04-14 12:25:09,838 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2025-04-14 12:25:09,843 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-04-14 12:25:09,843 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-04-14 12:25:09,848 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2025-04-14 12:25:10,592 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 12:25:10,592 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 12:25:29,894 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 12:25:29,895 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:25:30,092 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 12:25:30,092 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 12:27:02,687 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 12:27:02,687 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:27:02,853 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 12:27:02,853 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 12:32:59,527 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 12:32:59,527 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:32:59,800 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 12:32:59,800 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 12:43:57,600 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 12:43:57,600 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 12:43:57,707 - JARVIS - INFO - Speech engine initialized successfully
+2025-04-14 12:43:57,873 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 12:43:57,873 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 12:44:02,666 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 12:44:02,666 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 12:44:10,086 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 12:44:10,086 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 12:44:17,534 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 12:44:17,534 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 12:44:32,088 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 12:44:32,088 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 12:49:59,759 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 12:49:59,760 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:00:28,379 - JARVIS - INFO - JARVIS says: JARVIS shutting down.
+2025-04-14 13:00:30,385 - JARVIS - INFO - JARVIS terminated by keyboard interrupt
+2025-04-14 13:00:32,984 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 13:00:32,984 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 13:00:33,150 - JARVIS - INFO - Speech engine initialized successfully
+2025-04-14 13:00:33,287 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 13:00:33,287 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 13:00:37,321 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:00:37,321 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:00:45,044 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:00:45,044 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:02:34,640 - JARVIS - INFO - JARVIS says: JARVIS shutting down.
+2025-04-14 13:02:36,572 - JARVIS - INFO - JARVIS terminated by keyboard interrupt
+2025-04-14 13:09:25,648 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 13:09:25,648 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 13:09:26,126 - JARVIS - INFO - Speech engine initialized successfully
+2025-04-14 13:09:26,217 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 13:09:26,217 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 13:09:30,410 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:09:30,410 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:09:41,142 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:09:41,142 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:15:39,638 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:15:39,639 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:17:13,984 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:17:13,985 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:26:28,920 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:26:28,921 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:28:28,233 - JARVIS - INFO - JARVIS says: JARVIS shutting down.
+2025-04-14 13:28:30,717 - JARVIS - INFO - JARVIS terminated by keyboard interrupt
+2025-04-14 13:28:35,361 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 13:28:35,361 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 13:28:35,537 - JARVIS - INFO - Speech engine initialized successfully
+2025-04-14 13:28:35,779 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 13:28:35,779 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 13:28:40,161 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:28:40,162 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
+2025-04-14 13:30:30,023 - JARVIS - INFO - JARVIS says: JARVIS shutting down.
+2025-04-14 13:30:32,452 - JARVIS - INFO - JARVIS terminated by keyboard interrupt
+2025-04-14 13:30:36,934 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-14 13:30:36,934 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Python313\Lib\site-packages\comtypes\gen'
+2025-04-14 13:30:37,104 - JARVIS - INFO - Speech engine initialized successfully
+2025-04-14 13:30:37,317 - JARVIS - INFO - JARVIS initialized on Windows system
+2025-04-14 13:30:37,317 - JARVIS - INFO - JARVIS says: JARVIS online. Good afternoon, Sir.
+2025-04-14 13:30:41,704 - JARVIS - ERROR - Microphone initialization failed: No module named 'distutils'
+2025-04-14 13:30:41,704 - JARVIS - INFO - JARVIS says: I'm having trouble accessing the microphone.
